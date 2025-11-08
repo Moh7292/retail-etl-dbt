@@ -1,0 +1,13 @@
+retail_dsy:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: gcp-retail-pipeline              # ✅ ton PROJECT_ID
+      dataset: retail_dsy                       # ✅ ton dataset créé par Terraform
+      threads: 4                                # nombre de threads pour paralléliser
+      timeout_seconds: 300
+      location: europe-west1
+      keyfile: "{{ env_var('GOOGLE_APPLICATION_CREDENTIALS') }}"
+

@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail_dsy
+    database: gcp-retail-pipeline       # ✅ ton PROJECT_ID
+    schema: retail_dsy                  # ✅ ton dataset créé par Terraform
+    tables:
+      - name: raw_invoice               # Table brute des factures
+      - name: raw_country               # Table brute des pays
