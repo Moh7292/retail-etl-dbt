@@ -35,6 +35,9 @@ steps:
       - 'managed'
       - '--set-secrets'
       - '/secrets/dbt-service-keyfile=dbt-service-keyfile:latest'
+      - '--set-env-vars'
+      - 'GOOGLE_APPLICATION_CREDENTIALS=/secrets/dbt-service-keyfile'
+
 
 images:
   - 'gcr.io/$PROJECT_ID/dbt-service:$COMMIT_SHA'
