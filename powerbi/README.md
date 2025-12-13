@@ -45,9 +45,6 @@ Les données proviennent du dataset BigQuery alimenté par dbt :
 
 ---
 
-## 📷 Aperçu
-Voir le dossier `screenshots/` pour un aperçu du dashboard.
-
 ## 📷 Aperçu du dashboard
 
 ### 🔹 Vue globale
