@@ -51,12 +51,12 @@ Voir le dossier `screenshots/` pour un aperçu du dashboard.
 ## 📷 Aperçu du dashboard
 
 ### 🔹 Vue globale
-[![Vue globale](screenshots/overview.png)](screenshots/overview.png)
+[![Vue globale](powerbi/screenshots/overview.png)](screenshots/overview.png)
 
 ### 🔹 Analyse clients
-[![Analyse clients](screenshots/customers_view.png)](screenshots/customers_view.png)
+[![Analyse clients](/powerbi/screenshots/customers_view.png)](screenshots/customers_view.png)
 
 ### 🔹 Analyse produits
-[![Analyse produits](screenshots/products_view.png)](screenshots/products_view.png)
+[![Analyse produits](powerbi/screenshots/products_view.png)](screenshots/products_view.png)
 
 
