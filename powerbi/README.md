@@ -47,3 +47,15 @@ Les données proviennent du dataset BigQuery alimenté par dbt :
 
 ## 📷 Aperçu
 Voir le dossier `screenshots/` pour un aperçu du dashboard.
+
+## 📷 Aperçu du dashboard
+
+### Vue globale
+![Vue globale](screenshots/overview.png)
+
+### Analyse clients
+![Analyse des ventes](screenshots/customers_view.png)
+
+### Top produits
+![Top produits](screenshots/products_view.png)
+
