@@ -54,7 +54,7 @@ Voir le dossier `screenshots/` pour un aperçu du dashboard.
 [![Vue globale](powerbi/screenshots/overview.png)](screenshots/overview.png)
 
 ### 🔹 Analyse clients
-[![Analyse clients](/powerbi/screenshots/customers_view.png)](screenshots/customers_view.png)
+[![Analyse clients](powerbi/screenshots/customers_view.png)](screenshots/customers_view.png)
 
 ### 🔹 Analyse produits
 [![Analyse produits](powerbi/screenshots/products_view.png)](screenshots/products_view.png)
