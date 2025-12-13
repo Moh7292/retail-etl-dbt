@@ -50,12 +50,13 @@ Voir le dossier `screenshots/` pour un aperçu du dashboard.
 
 ## 📷 Aperçu du dashboard
 
-### Vue globale
-![Vue globale](screenshots/overview.png)
+### 🔹 Vue globale
+[![Vue globale](screenshots/overview.png)](screenshots/overview.png)
 
-### Analyse clients
-![Analyse des ventes](screenshots/customers_view.png)
+### 🔹 Analyse clients
+[![Analyse clients](screenshots/customers_view.png)](screenshots/customers_view.png)
 
-### Top produits
-![Top produits](screenshots/products_view.png)
+### 🔹 Analyse produits
+[![Analyse produits](screenshots/products_view.png)](screenshots/products_view.png)
+
 
